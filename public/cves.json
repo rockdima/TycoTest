@@ -1,0 +1,262 @@
+[
+  {
+    "priority": "High",
+    "score": 8.2,
+    "cve": "CVE-2011-1473",
+    "date": "Feb 07, 2021",
+    "title": "Improper Neutralization of Special Elements used in an OS Command (\"OS Command Injection\") in ng-packagr",
+    "categories": [
+      1,
+      2
+    ],
+    "description": "Developer Hub is a free micro-site provided by Checkmarx that empowers the developer community."
+  },
+  {
+    "priority": "Critical",
+    "score": 9.0,
+    "cve": "CVE-2020-14882",
+    "date": "Aug 14, 2020",
+    "title": "Oracle WebLogic Server XMLDecoder Remote Code Execution Vulnerability",
+    "categories": [
+      3,
+      4
+    ],
+    "description": "This CVE involves an RCE vulnerability in Oracle WebLogic Server's XMLDecoder component."
+  },
+  {
+    "priority": "High",
+    "score": 7.8,
+    "cve": "CVE-2021-22945",
+    "date": "Mar 09, 2021",
+    "title": "Cross-site Scripting (XSS) vulnerability in Apache Struts",
+    "categories": [
+      2
+    ],
+    "description": "An attacker can inject arbitrary JavaScript code into the application."
+  },
+  {
+    "priority": "Medium",
+    "score": 6.5,
+    "cve": "CVE-2019-16759",
+    "date": "Dec 04, 2019",
+    "title": "Remote Code Execution vulnerability in Jenkins",
+    "categories": [
+      2,
+      3
+    ],
+    "description": "A vulnerability in Jenkins could allow an attacker to execute arbitrary code."
+  },
+  {
+    "priority": "Critical",
+    "score": 9.4,
+    "cve": "CVE-2020-0601",
+    "date": "Jan 14, 2020",
+    "title": "Microsoft CryptoAPI Spoofing Vulnerability",
+    "categories": [
+      5
+    ],
+    "description": "A vulnerability in Microsoft's CryptoAPI could allow spoofing of certificates."
+  },
+  {
+    "priority": "High",
+    "score": 8.7,
+    "cve": "CVE-2017-0144",
+    "date": "Mar 14, 2017",
+    "title": "EternalBlue SMB Remote Code Execution Vulnerability",
+    "categories": [
+      3
+    ],
+    "description": "A vulnerability in the Microsoft SMBv1 server that could allow remote code execution."
+  },
+  {
+    "priority": "Medium",
+    "score": 7.0,
+    "cve": "CVE-2018-8174",
+    "date": "May 08, 2018",
+    "title": "Microsoft VBScript Engine Remote Code Execution Vulnerability",
+    "categories": [
+      1,
+      4
+    ],
+    "description": "A remote code execution vulnerability exists in the way the VBScript engine handles objects in memory."
+  },
+  {
+    "priority": "High",
+    "score": 8.0,
+    "cve": "CVE-2021-22947",
+    "date": "Apr 28, 2021",
+    "title": "Apache Log4j RCE Vulnerability",
+    "categories": [
+      4,
+      5
+    ],
+    "description": "A remote code execution vulnerability exists in Log4j."
+  },
+  {
+    "priority": "Critical",
+    "score": 9.8,
+    "cve": "CVE-2021-22952",
+    "date": "Jun 23, 2021",
+    "title": "OpenSSL TLS/SSL Client DoS Vulnerability",
+    "categories": [
+      3
+    ],
+    "description": "OpenSSL allows attackers to cause a denial of service via TLS/SSL."
+  },
+  {
+    "priority": "Medium",
+    "score": 6.7,
+    "cve": "CVE-2020-8284",
+    "date": "Apr 14, 2020",
+    "title": "GitHub Actions Remote Code Execution Vulnerability",
+    "categories": [
+      2,
+      6
+    ],
+    "description": "A flaw in GitHub Actions allows attackers to run arbitrary commands."
+  },
+  {
+    "priority": "High",
+    "score": 8.4,
+    "cve": "CVE-2019-0708",
+    "date": "May 14, 2019",
+    "title": "BlueKeep RDP Vulnerability",
+    "categories": [
+      3
+    ],
+    "description": "An RCE vulnerability in the Remote Desktop Protocol allows for remote code execution."
+  },
+  {
+    "priority": "Critical",
+    "score": 9.5,
+    "cve": "CVE-2017-0143",
+    "date": "Mar 14, 2017",
+    "title": "Microsoft SMBv1 Remote Code Execution Vulnerability",
+    "categories": [
+      3
+    ],
+    "description": "A vulnerability in Microsoft SMBv1 protocol could allow an attacker to execute arbitrary code."
+  },
+  {
+    "priority": "Low",
+    "score": 4.8,
+    "cve": "CVE-2021-34558",
+    "date": "Jul 13, 2021",
+    "title": "Path Traversal Vulnerability in MySQL",
+    "categories": [
+      4
+    ],
+    "description": "A path traversal vulnerability in MySQL could allow attackers to access files outside the intended directory."
+  },
+  {
+    "priority": "High",
+    "score": 8.3,
+    "cve": "CVE-2021-22945",
+    "date": "Mar 09, 2021",
+    "title": "Cross-site Scripting (XSS) vulnerability in Apache Struts",
+    "categories": [
+      2
+    ],
+    "description": "An attacker can inject arbitrary JavaScript code into the application."
+  },
+  {
+    "priority": "Critical",
+    "score": 9.9,
+    "cve": "CVE-2023-1234",
+    "date": "Oct 15, 2023",
+    "title": "Critical RCE vulnerability in Apache HTTP Server",
+    "categories": [
+      2,
+      3
+    ],
+    "description": "A remote code execution vulnerability exists in the Apache HTTP Server affecting multiple versions."
+  },
+  {
+    "priority": "High",
+    "score": 8.1,
+    "cve": "CVE-2023-2345",
+    "date": "Jul 30, 2023",
+    "title": "SQL Injection Vulnerability in WordPress",
+    "categories": [
+      4
+    ],
+    "description": "An attacker can exploit this vulnerability to inject malicious SQL queries in WordPress plugins."
+  },
+  {
+    "priority": "Medium",
+    "score": 7.2,
+    "cve": "CVE-2023-4567",
+    "date": "Mar 22, 2023",
+    "title": "Cross-Site Request Forgery in Django",
+    "categories": [
+      2
+    ],
+    "description": "A CSRF vulnerability in Django could allow an attacker to execute unauthorized actions."
+  },
+  {
+    "priority": "Low",
+    "score": 5.5,
+    "cve": "CVE-2023-5678",
+    "date": "Jan 10, 2023",
+    "title": "Directory Traversal in Apache Tomcat",
+    "categories": [
+      3
+    ],
+    "description": "A directory traversal vulnerability exists in Apache Tomcat affecting multiple versions."
+  },
+  {
+    "priority": "High",
+    "score": 8.8,
+    "cve": "CVE-2022-10001",
+    "date": "Feb 12, 2022",
+    "title": "RCE Vulnerability in Node.js",
+    "categories": [
+      2
+    ],
+    "description": "A critical RCE vulnerability in Node.js allows attackers to execute arbitrary code on affected servers."
+  },
+  {
+    "priority": "Critical",
+    "score": 9.2,
+    "cve": "CVE-2022-20001",
+    "date": "Mar 5, 2022",
+    "title": "Heap Overflow Vulnerability in Linux Kernel",
+    "categories": [
+      3
+    ],
+    "description": "A heap overflow vulnerability in Linux Kernel that can lead to remote code execution."
+  },
+  {
+    "priority": "Medium",
+    "score": 7.0,
+    "cve": "CVE-2022-30001",
+    "date": "Sep 28, 2022",
+    "title": "Buffer Overflow in Go Programming Language",
+    "categories": [
+      5
+    ],
+    "description": "A buffer overflow vulnerability in Go allows for arbitrary code execution in certain configurations."
+  },
+  {
+    "priority": "High",
+    "score": 8.3,
+    "cve": "CVE-2021-1205",
+    "date": "May 11, 2021",
+    "title": "Windows MSHTML Remote Code Execution Vulnerability",
+    "categories": [
+      3
+    ],
+    "description": "A vulnerability in Microsoft MSHTML engine allowing remote code execution via malicious web content."
+  },
+  {
+    "priority": "Critical",
+    "score": 9.7,
+    "cve": "CVE-2020-8600",
+    "date": "Dec 16, 2020",
+    "title": "High Severity Privilege Escalation in Windows",
+    "categories": [
+      5
+    ],
+    "description": "Privilege escalation vulnerability in Windows 10 and Windows Server 2019."
+  }
+]
